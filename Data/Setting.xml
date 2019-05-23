@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category Name="Internal">
+	<Key Name="DB_BUILT_IN" Value="0" />
+	<Key Name="DB_NAME" Value="hocsinh" />
+	<Key Name="DB_SERVER" Value="192.168.1.106" />
+	<Key Name="DB_USERID" Value="postgres" />
+	<Key Name="DB_USERPASSWORD" Value="230798" />
+</Category>
